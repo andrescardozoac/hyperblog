@@ -8,6 +8,7 @@ HyperBlog del curso de Github Platzy
 * Trucos
 * Otra opcion mas..
 *  Incluye ejemplos en windows , linx y Mac
+* Para todas las edades
 
 
 -- Este Readme es un chiste para el curso, per puedes ver el [**curso**] (https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/ "Ve al curso")
